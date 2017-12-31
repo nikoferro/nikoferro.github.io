@@ -20,7 +20,10 @@ export default {
       msg: "A developer from Buenos Aires, Argentina",
       social: [
         { icon: "github", url: "https://github.com/nikoferro" },
-        { icon: "linkedin", url: "https://github.com/nikoferro" }
+        {
+          icon: "linkedin",
+          url: "https://www.linkedin.com/in/nicolás-ferro-58383120"
+        }
       ]
     };
   }
